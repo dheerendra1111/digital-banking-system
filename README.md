@@ -62,9 +62,6 @@ npm start  # ⚛️ http://localhost:3000
 💡 Pro Tip: Use run.bat on Windows to start both servers in one go! ⚡
 ```
 
-## 📸 **Screenshots** *(Replace with actual images)*  
-
-
 ---
 
 ## 🤝 **Contributing**  
