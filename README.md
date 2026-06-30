@@ -1,5 +1,5 @@
 
-<h1 align="center">🏦 Bank Management System</h1>
+<h1 align="center">🏦 Digital Banking System</h1>
 
 <p align="center">
   ✨ A modern banking solution with facial recognition, role-based dashboards, and secure transactions ✨
@@ -47,8 +47,8 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/thinakaranmanokaran/Bank_Management.git
-cd Bank_Management
+git clone https://github.com/dheerendra1111/Digital_Banking_System.git
+cd Digital_Banking_system
 
 # 2. Backend Setup
 cd server
@@ -64,9 +64,6 @@ npm start  # ⚛️ http://localhost:3000
 
 ## 📸 **Screenshots** *(Replace with actual images)*  
 
-| Login (Facial Recognition) | Admin Dashboard | User Transactions |
-|---------------------------|-----------------|-------------------|
-| ![Profile](https://raw.githubusercontent.com/thinakaranmanokaran/Bank_Management/main/client/public/snap/screencapture-localhost-5173-user-profile-2025-03-27-17_17_37.png) | ![Tools](https://raw.githubusercontent.com/thinakaranmanokaran/Bank_Management/main/client/public/snap/screencapture-localhost-5173-user-dashboard-2025-03-27-17_17_19.png) | ![Transactions](https://raw.githubusercontent.com/thinakaranmanokaran/Bank_Management/main/client/public/snap/screencapture-localhost-5173-user-transactions-2025-03-27-17_18_12.png) |
 
 ---
 
@@ -83,7 +80,7 @@ We welcome contributions! Follow these steps:
 
 ## 📜 **License**  
 
-MIT © [Thinakaran Manokaran](https://thinakaranmanokaran.netlify.app/)  
+MIT © [Dheerendra Singh Lodhi](https://github.com/dheerendra1111)  
 
 ---
 
